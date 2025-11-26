@@ -8,7 +8,6 @@
     starship
     zathura
     libreoffice
-    yazi
     vlc
     lazygit
   ];

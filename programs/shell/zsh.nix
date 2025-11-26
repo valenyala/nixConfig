@@ -48,7 +48,8 @@
       lowrite = "libreoffice --writer";
       
       # scripts
-      ibusR = "ibus restart --type=wayland";
+      ibusR = "ibus start --type=wayland";
+      wb = "nohup waybar > /dev/null &";
       obs = "nixglhost obs";
       
       # openvpn
